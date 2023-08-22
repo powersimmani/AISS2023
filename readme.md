@@ -59,7 +59,7 @@ Afterward, all participants conducted a more in-depth exploration of self-select
 
 ## Beginner group: self-study with real-world datasets
 
-![Beginner group](./Biginners.png?raw=true)
+![Beginner group](./Beginners.png?raw=true)
 
 The Beginner group consists of students who are new to the field of data science. During their studies, they were tasked with applying their knowledge to four interesting data sets. They analyzed the datasets and performed all the processes of predicting through machine learning models, and wrote a Colab, an interactive Python tool for sharing this process and results. The following are the results of their presentations and the information about the Colab.
 
