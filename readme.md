@@ -3,7 +3,7 @@
 
 ![GUGC AI Summer School Banner](./Banner.png?raw=true)
 
-Ho-min Park
+Organized by Ho-min Park (Ph.D. Student, Ghent University)
 
 Welcome to the GUGC AI Summer School 2023! We're excited to host this intensive three-week program from June 1st to June 20th, providing students with hands-on experience in the rapidly evolving field of artificial intelligence (AI). Our mission is to empower the next generation of AI enthusiasts with the skills, knowledge, and tools necessary to tackle real-world challenges and drive innovation.
 
@@ -15,7 +15,7 @@ The program is designed for students with varying levels of AI expertise and is 
 
 - **Beginner Group**: Ideal for students new to AI and data science, this group will focus on foundational AI concepts, Python programming, and data analysis. Participants will apply their knowledge to real-world datasets, creating machine learning models and sharing their results in interactive Colab notebooks.
 
-- **Advanced Group**: Tailored for students with prior experience in data science, this group will explore cutting-edge AI topics and mentor beginner students. Advanced participants will also prepare and present practical sessions for the entire summer school cohort, showcasing their expertise.
+- **Advanced Group**: Tailored for students with prior experience in data science, this group will explore cutting-edge AI topics and mentor beginner students. Advanced participants will also prepare and present lecture sessions for the entire summer school cohort, showcasing their expertise.
 
 The beginner group had a total of 24 participants, out of which 4 were selected through a qualification test consisting of 30 questions related to basic mathematics and Python programming.
 
@@ -29,7 +29,7 @@ From June 15th, after the final exams, to July 10th, the start of the AISS, stud
 
 [AISS2023-Homework](https://github.com/powersimmani/AISS2023-Homework)
 
-The material learned will be validated through a quiz after the Week 1 orientation. The quiz consists of 60 questions that test both theory and application, and 80 questions that require definitions of terms. All participants passed with scores of at least 70.
+The material learned will be validated through a quiz after the Week 1 orientation. The quiz consists of 60 questions that test both theory and application and 80 questions that require definitions of terms. All participants passed with scores of at least 70.
 
 The Advanced group students prepared and graded the lectures and quiz questions for Weeks 1-2.
 
@@ -55,13 +55,13 @@ The Advanced group took charge of at least one session, conducted lectures or pr
 
 ### Week 3-6: Individual projects and self-study
 
-Afterward, all participants conducted more in-depth exploration on self-selected topics. Below is a summary of their projects, including links to their presentations and Colab notebooks.
+Afterward, all participants conducted a more in-depth exploration of self-selected topics. Below is a summary of their projects, including links to their presentations and Colab notebooks.
 
-## Beginner group: self study with real-world datasets
+## Beginner group: self-study with real-world datasets
 
 ![Beginner group](./Biginners.png?raw=true)
 
-The Beginner group consists of students who are new to the field of data science. During their studies, they were tasked with applying their knowledge to four interesting data sets. They analyzed the datasets and performed all the processes of predicting through machine learning models, and wrote a Colab, an interactive python tool for sharing this process and results. The following are the results of their presentations and the information about the Colab.
+The Beginner group consists of students who are new to the field of data science. During their studies, they were tasked with applying their knowledge to four interesting data sets. They analyzed the datasets and performed all the processes of predicting through machine learning models, and wrote a Colab, an interactive Python tool for sharing this process and results. The following are the results of their presentations and the information about the Colab.
 
 | Name       | Dataset name                    | Presentation | Colab |
 |------------|---------------------------------|--------------|-------|
@@ -71,11 +71,11 @@ The Beginner group consists of students who are new to the field of data science
 | Jihun Kwon | Mushrooms: Distinguishing the toxicity | [Link](https://) | [Colab link](https://) |
 
 
-## Advanced group: self study with trendy/interesting AI topics
+## Advanced group: self-study with machine learning applied research topics
 
 ![Advanced group](./Advanced.png?raw=true)
 
-The Advanced group consists of students who have prior experience with data science. They were asked to prepare and present a practical session for the Beginner group during the AI Winter School. During the self-study period, they explored and presented topics of their own interest.
+The Advanced group consists of students who have prior experience with data science. They were asked to prepare and present a lecture session for the Beginner group during the AI Winter School. During the self-study period, they explored and presented topics of their own interest.
 
 | Name         | Practical session  | Self-study |
 |--------------|--------------------|------------|
@@ -95,4 +95,3 @@ The AI Summer School was a great success, and all participants gained valuable e
 
 We would like to express our gratitude to the Center for Biosystems and Biotech Data Science for providing the funding for this program. Additionally, we would like to extend our appreciation to the Student Intensive Research Training Program (IRTP) in the Academic Affairs team.
 
-## References
