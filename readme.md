@@ -77,14 +77,15 @@ The Beginner group consists of students who are new to the field of data science
 
 The Advanced group consists of students who have prior experience with data science. They were asked to prepare and present a lecture session for the Beginner group during the AI Winter School. During the self-study period, they explored and presented topics of their own interest.
 
-| Name         | Practical session  | Self-study |
-|--------------|--------------------|------------|
-| Minjae Chung | - | [Perceiver CPI: A Deep Dive into Nested Cross-Attention for Compound–Protein Interaction](https://) |
-| Yujin Kim    | - | Multi-target prediction problem setting selection |
-| Yejin Lee    | - | [Revolutionizing Leukemia Diagnosis with Annotation-Free Deep Learning](https://) |
-| Dongin Moon  | - | [Unraveling Parkinson’s Disease: Kaggle Competition for Biomarker Proteins & Peptides](https://) |
-| Gang Hyun Kim| - | [MuSe-Personalization 2023: A Chronicle from MuSe2023](https://) |
-| Jong Bum Won | - | [Investigating Discrepancies in AlphaFold & ESMFold Protein Structures](https://) |
+
+| Name         | Self-study |
+|--------------|------------|
+| Minjae Chung | [Perceiver CPI: A Deep Dive into Nested Cross-Attention for Compound–Protein Interaction](https://) |
+| Yujin Kim    | Multi-target prediction problem setting selection |
+| Yejin Lee    | [Revolutionizing Leukemia Diagnosis with Annotation-Free Deep Learning](https://) |
+| Dongin Moon  | [Unraveling Parkinson’s Disease: Kaggle Competition for Biomarker Proteins & Peptides](https://) |
+| Gang Hyun Kim| [MuSe-Personalization 2023: A Chronicle from MuSe2023](https://) |
+| Jong Bum Won | [Investigating Discrepancies in AlphaFold & ESMFold Protein Structures](https://) |
 
 
 ## Conclusion
