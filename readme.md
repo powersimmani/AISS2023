@@ -65,7 +65,7 @@ The Beginner group consists of students who are new to the field of data science
 
 | Name       | Dataset name                    | Presentation | Colab |
 |------------|---------------------------------|--------------|-------|
-| Dahee Kim  | Exploring Breast Cancer Patterns | [Link](https://) | [Colab link](https://) |
+| Dahee Kim  | Exploring Breast Cancer Patterns | [Link](https://www.slideshare.net/DaheeKim30/wisconsin-breast-cancer-datasetpptx-260071189) | [Colab link](https://www.kaggle.com/code/dxk9517/the-wisconsin-breast-cancer-dataset) |
 | Taekeun Kim| Detecting Credit Card Fraud      | [Link](https://) | [Colab link](https://) |
 | Yujin Sung | Detecting Heart Diseases          | [Link](https://) | [Colab link](https://) |
 | Jihun Kwon | Mushrooms: Distinguishing the toxicity | [Link](https://) | [Colab link](https://) |
@@ -80,8 +80,8 @@ The Advanced group consists of students who have prior experience with data scie
 
 | Name         | Self-study |
 |--------------|------------|
-| Minjae Chung | [Perceiver CPI: A Deep Dive into Nested Cross-Attention for Compound–Protein Interaction](https://) |
-| Yujin Kim    | Multi-target prediction problem setting selection |
+| Minjae Chung | [Perceiver CPI: A Deep Dive into Nested Cross-Attention for Compound–Protein Interaction](https://www.slideshare.net/MinJaeChung8/perceiver-cpipptx) |
+| Yujin Kim    | [Multi-target prediction problem setting selection](https://) |
 | Yejin Lee    | [Revolutionizing Leukemia Diagnosis with Annotation-Free Deep Learning](https://) |
 | Dongin Moon  | [Unraveling Parkinson’s Disease: Kaggle Competition for Biomarker Proteins & Peptides](https://) |
 | Gang Hyun Kim| [MuSe-Personalization 2023: A Chronicle from MuSe2023](https://) |
