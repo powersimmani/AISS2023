@@ -85,7 +85,7 @@ The Advanced group consists of students who have prior experience with data scie
 | Yejin Lee    | [Revolutionizing Leukemia Diagnosis with Annotation-Free Deep Learning](https://) |
 | Dongin Moon  | [Unraveling Parkinson’s Disease: Kaggle Competition for Biomarker Proteins & Peptides](https://) |
 | Gang Hyun Kim| [MuSe-Personalization 2023: A Chronicle from MuSe2023](https://) |
-| Jong Bum Won | [Investigating Discrepancies in AlphaFold & ESMFold Protein Structures](https://) |
+| Jong Bum Won | [Investigating Discrepancies in AlphaFold & ESMFold Protein Structures](https://www.slideshare.net/secret/hDARVUJ5Ln6JDG) |
 
 
 ## Conclusion
