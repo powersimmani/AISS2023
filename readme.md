@@ -2,27 +2,7 @@
 # GUGC AI Summer School 2023: Fostering Innovation and Learning
 
 ![GUGC AI Summer School Banner](./Banner.png?raw=true)
-
-'''
- █████╗ ██╗   
-██╔══██╗██║   
-███████║██║   
-██╔══██║██║   
-██║  ██║██║   
-╚═╝  ╚═╝╚═╝   
-███████╗██╗   ██╗███╗   ███╗███╗   ███╗███████╗██████╗  
-██╔════╝██║   ██║████╗ ████║████╗ ████║██╔════╝██╔══██╗ 
-███████╗██║   ██║██╔████╔██║██╔████╔██║█████╗  ██████╔╝ 
-╚════██║██║   ██║██║╚██╔╝██║██║╚██╔╝██║██╔══╝  ██╔══██╗ 
-███████║╚██████╔╝██║ ╚═╝ ██║██║ ╚═╝ ██║███████╗██║  ██║ 
-╚══════╝ ╚═════╝ ╚═╝     ╚═╝╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝ 
-███████╗ ██████╗██╗  ██╗ ██████╗  ██████╗ ██╗     
-██╔════╝██╔════╝██║  ██║██╔═══██╗██╔═══██╗██║     
-███████╗██║     ███████║██║   ██║██║   ██║██║     
-╚════██║██║     ██╔══██║██║   ██║██║   ██║██║     
-███████║╚██████╗██║  ██║╚██████╔╝╚██████╔╝███████╗
-╚══════╝ ╚═════╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚══════╝
-'''                                                                                                                                                        
+                                                                                                                                           
 Organized by Ho-min Park (Ph.D. Student, Ghent University)
 
 Welcome to the GUGC AI Summer School 2023! We're excited to host this intensive three-week program from June 1st to June 20th, providing students with hands-on experience in the rapidly evolving field of artificial intelligence (AI). Our mission is to empower the next generation of AI enthusiasts with the skills, knowledge, and tools necessary to tackle real-world challenges and drive innovation.
