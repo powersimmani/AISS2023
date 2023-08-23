@@ -66,9 +66,9 @@ The Beginner group consists of students who are new to the field of data science
 | Name       | Dataset name                    | Presentation | Code |
 |------------|---------------------------------|--------------|-------|
 | Dahee Kim  | Exploring Breast Cancer Patterns | [Link](https://www.slideshare.net/DaheeKim30/wisconsin-breast-cancer-datasetpptx-260071189) | [Code link](https://www.kaggle.com/code/dxk9517/the-wisconsin-breast-cancer-dataset) |
-| Taekeun Kim| Detecting Credit Card Fraud      | [Link](https://) | [Code link](https://) |
+| Taekeun Kim| Detecting Credit Card Fraud      | [Link](https://) | [Code link]() |
 | Yujin Sung | Detecting Heart Diseases          | [Link](https://) | [Code link](https://) |
-| Jihun Kwon | Mushrooms: Distinguishing the toxicity | [Link](https://) | [Code link](https://) |
+| Jihun Kwon | Mushrooms: Distinguishing the toxicity | [Link](https://www.slideshare.net/secret/2o3qqKwbuwRdKo) | [Code link](https://www.kaggle.com/code/kwonjihun0126/poisonous-mushroom/notebook) |
 
 
 ## Advanced group: self-study with machine learning applied research topics
