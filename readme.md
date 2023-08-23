@@ -3,6 +3,17 @@
 
 ![GUGC AI Summer School Banner](./Banner.png?raw=true)
 
+
+  /$$$$$$  /$$$$$$        /$$$$$$                                                                   /$$$$$$            /$$                           /$$
+ /$$__  $$|_  $$_/       /$$__  $$                                                                 /$$__  $$          | $$                          | $$
+| $$  \ $$  | $$        | $$  \__/ /$$   /$$ /$$$$$$/$$$$  /$$$$$$/$$$$   /$$$$$$   /$$$$$$       | $$  \__/  /$$$$$$$| $$$$$$$   /$$$$$$   /$$$$$$ | $$
+| $$$$$$$$  | $$        |  $$$$$$ | $$  | $$| $$_  $$_  $$| $$_  $$_  $$ /$$__  $$ /$$__  $$      |  $$$$$$  /$$_____/| $$__  $$ /$$__  $$ /$$__  $$| $$
+| $$__  $$  | $$         \____  $$| $$  | $$| $$ \ $$ \ $$| $$ \ $$ \ $$| $$$$$$$$| $$  \__/       \____  $$| $$      | $$  \ $$| $$  \ $$| $$  \ $$| $$
+| $$  | $$  | $$         /$$  \ $$| $$  | $$| $$ | $$ | $$| $$ | $$ | $$| $$_____/| $$             /$$  \ $$| $$      | $$  | $$| $$  | $$| $$  | $$| $$
+| $$  | $$ /$$$$$$      |  $$$$$$/|  $$$$$$/| $$ | $$ | $$| $$ | $$ | $$|  $$$$$$$| $$            |  $$$$$$/|  $$$$$$$| $$  | $$|  $$$$$$/|  $$$$$$/| $$
+|__/  |__/|______/       \______/  \______/ |__/ |__/ |__/|__/ |__/ |__/ \_______/|__/             \______/  \_______/|__/  |__/ \______/  \______/ |__/
+                                                                                                                                                        
+                                                                                                                                                        
 Organized by Ho-min Park (Ph.D. Student, Ghent University)
 
 Welcome to the GUGC AI Summer School 2023! We're excited to host this intensive three-week program from June 1st to June 20th, providing students with hands-on experience in the rapidly evolving field of artificial intelligence (AI). Our mission is to empower the next generation of AI enthusiasts with the skills, knowledge, and tools necessary to tackle real-world challenges and drive innovation.
