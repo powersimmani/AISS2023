@@ -44,8 +44,8 @@ The Advanced group took charge of at least one session, conducted lectures or pr
 |-----|-----------|-------------------------------------------------------------|-----------|
 | Mon | July 10th | Orientation                                                 | Quiz for checking homework |
 | Tue | July 11th | Computer network and structure                              | Environment setting and Python review  |
-| Wed | July 12th | Data mining & machine learning (Yejin Lee)                  | Machine learning practical (1)  |
-| Thu | July 13th | Interpretability methods                                    | Machine learning practical (2) (Yujin Kim) |
+| Wed | July 12th | Data mining & machine learning                              | Machine learning practical (1)  |
+| Thu | July 13th | Interpretability methods (Yejin Lee)                        | Machine learning practical (2) (Yujin Kim) |
 | Fri | July 14th | Artificial Neural Network                                   | ANN practical with NumPy (Dongin Moon) |
 | Mon | July 17th | Convolutional Neural Network (Jongbum Won)                  | CNN Practical (Jongbum Won) |
 | Tue | July 18th | Evaluation, loss, and optimizations                         | CNN practical + (MinJae Chung) |
