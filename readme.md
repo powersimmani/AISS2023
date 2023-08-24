@@ -82,7 +82,7 @@ The Advanced group consists of students who have prior experience with data scie
 |--------------|------------|
 | Minjae Chung | [Perceiver CPI: A Deep Dive into Nested Cross-Attention for Compound–Protein Interaction](https://www.slideshare.net/MinJaeChung8/perceiver-cpipptx) |
 | Yujin Kim    | [Multi-target prediction problem setting selection](https://www.slideshare.net/ssuser7f1cc7/multitarget-prediction-problem-setting-selection) |
-| Yejin Lee    | [Revolutionizing Leukemia Diagnosis with Annotation-Free Deep Learning](https://) |
+| Yejin Lee    | [Revolutionizing Leukemia Diagnosis with Annotation-Free Deep Learning](https://www.slideshare.net/ssuserbaef99/individual-presentationyejinpptx) |
 | Dongin Moon  | [Unraveling Parkinson’s Disease: Kaggle Competition for Biomarker Proteins & Peptides](https://www.slideshare.net/ssuser2d7f5b/unravelingparkinsonsdiseasekagglecompetition-dongin-moonpptx) |
 | Gang Hyun Kim| [MuSe-Personalization 2023: A Chronicle from MuSe2023](https://www.slideshare.net/KyleKim53/muse2023pptx) |
 | Jong Bum Won | [Investigating Discrepancies in AlphaFold & ESMFold Protein Structures](https://www.slideshare.net/secret/hDARVUJ5Ln6JDG) |
