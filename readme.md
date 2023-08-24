@@ -65,7 +65,7 @@ The Beginner group consists of students who are new to the field of data science
 
 | Name       | Dataset name                    | Presentation | Code |
 |------------|---------------------------------|--------------|-------|
-| Dahee Kim  | Exploring Breast Cancer Patterns | [Link](https://www.slideshare.net/DaheeKim30/wisconsin-breast-cancer-datasetpptx-260071189) | [Code link](https://www.kaggle.com/code/dxk9517/the-wisconsin-breast-cancer-dataset) |
+| Dahee Kim  | Exploring Breast Cancer Patterns | [Link](https://www.slideshare.net/DaheeKim30/wisconsin-breast-cancer-datasetpptx-260071286) | [Code link](https://www.kaggle.com/code/dxk9517/the-wisconsin-breast-cancer-dataset) |
 | Taekeun Kim| Loan Default Prediction      | [Link](https://www.slideshare.net/TaeKeunKim11/taekeun-kimloan-default-predictionpptx) | [Code link](https://www.kaggle.com/taekeunkim/loan-default-prediction) |
 | Yujin Sung | Detecting Heart Diseases          | [Link](https://www.slideshare.net/HermioneSung1/hdyjspptx) | [Code link](https://www.kaggle.com/code/yujinsung/heart-disease-data-set) |
 | Jihun Kwon | Mushrooms: Distinguishing the toxicity | [Link](https://www.slideshare.net/secret/2o3qqKwbuwRdKo) | [Code link](https://www.kaggle.com/code/kwonjihun0126/poisonous-mushroom/notebook) |
