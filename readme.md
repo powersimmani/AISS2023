@@ -63,7 +63,7 @@ Afterward, all participants conducted a more in-depth exploration of self-select
 
 The Beginner group consists of students who are new to the field of data science. During their studies, they were tasked with applying their knowledge to four interesting data sets. They analyzed the datasets and performed all the processes of predicting through machine learning models, and wrote a Colab, an interactive Python tool for sharing this process and results. The following are the results of their presentations and the information about the Colab.
 
-| Name       | Dataset name                    | Presentation | Code |
+| Name       | Dataset name                    | Presentation | Kaggle code |
 |------------|---------------------------------|--------------|-------|
 | Dahee Kim  | Exploring Breast Cancer Patterns | [Link](https://www.slideshare.net/DaheeKim30/wisconsin-breast-cancer-datasetpptx-260071286) | [Code link](https://www.kaggle.com/code/dxk9517/the-wisconsin-breast-cancer-dataset) |
 | Taekeun Kim| Loan Default Prediction      | [Link](https://www.slideshare.net/TaeKeunKim11/taekeun-kimloan-default-predictionpptx) | [Code link](https://www.kaggle.com/taekeunkim/loan-default-prediction) |
