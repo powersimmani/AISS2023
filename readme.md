@@ -67,7 +67,7 @@ The Beginner group consists of students who are new to the field of data science
 |------------|---------------------------------|--------------|-------|
 | Dahee Kim  | Exploring Breast Cancer Patterns | [Link](https://www.slideshare.net/DaheeKim30/wisconsin-breast-cancer-datasetpptx-260071189) | [Code link](https://www.kaggle.com/code/dxk9517/the-wisconsin-breast-cancer-dataset) |
 | Taekeun Kim| Detecting Credit Card Fraud      | [Link](https://www.slideshare.net/TaeKeunKim11/taekeun-kimloan-default-predictionpptx) | [Code link](https://www.kaggle.com/taekeunkim/loan-default-prediction) |
-| Yujin Sung | Detecting Heart Diseases          | [Link](https://www.slideshare.net/HermioneSung1/hdyjspptx) | [Code link](https://) |
+| Yujin Sung | Detecting Heart Diseases          | [Link](https://www.slideshare.net/HermioneSung1/hdyjspptx) | [Code link](https://www.kaggle.com/code/yujinsung/heart-disease-data-set) |
 | Jihun Kwon | Mushrooms: Distinguishing the toxicity | [Link](https://www.slideshare.net/secret/2o3qqKwbuwRdKo) | [Code link](https://www.kaggle.com/code/kwonjihun0126/poisonous-mushroom/notebook) |
 
 
@@ -84,7 +84,7 @@ The Advanced group consists of students who have prior experience with data scie
 | Yujin Kim    | [Multi-target prediction problem setting selection](https://www.slideshare.net/ssuser7f1cc7/multitarget-prediction-problem-setting-selection) |
 | Yejin Lee    | [Revolutionizing Leukemia Diagnosis with Annotation-Free Deep Learning](https://) |
 | Dongin Moon  | [Unraveling Parkinson’s Disease: Kaggle Competition for Biomarker Proteins & Peptides](https://www.slideshare.net/ssuser2d7f5b/unravelingparkinsonsdiseasekagglecompetition-dongin-moonpptx) |
-| Gang Hyun Kim| [MuSe-Personalization 2023: A Chronicle from MuSe2023](https://) |
+| Gang Hyun Kim| [MuSe-Personalization 2023: A Chronicle from MuSe2023](https://www.slideshare.net/KyleKim53/muse2023pptx) |
 | Jong Bum Won | [Investigating Discrepancies in AlphaFold & ESMFold Protein Structures](https://www.slideshare.net/secret/hDARVUJ5Ln6JDG) |
 
 
